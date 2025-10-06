@@ -2,7 +2,7 @@
 description: Adding a physical touch to your events!
 ---
 
-# Ordering Swag & Prizes
+# Ordering Swag and Prizes
 
 When it comes to prizes and swag, you should do what your budget allows. While swag is great for marketing/branding, you do not want to sacrifice quality of the other aspects of your event.&#x20;
 
@@ -88,17 +88,19 @@ If you have multiple types of swag, consider distributing the swag throughout th
 
 If you plan to get t-shirts, remember to collect t-shirt sizes so you know the approximate % distribution you want of each size. You can also use the % below that we use here at MLH.&#x20;
 
-| Type       | Percent |
-| ---------- | ------- |
-| Women's XS | 1.48%   |
-| Women's S  | 6.84%   |
-| Women's M  | 5.39%   |
-| Women's L  | 1.54%   |
-| Women's XL | 0.27%   |
-| Unisex XS  | 0.72%   |
-| Unisex S   | 13.60%  |
-| Unisex M   | 42.94%  |
-| Unisex L   | 21.02%  |
-| Unisex XL  | 6.19%   |
+| Type        | Percent |
+| ----------- | ------- |
+| Women's XS  | 1.71%   |
+| Women's S   | 6.20%   |
+| Women's M   | 7.07%   |
+| Women's L   | 2.75%   |
+| Women's XL  | 0.95%   |
+| Women's 2XL | 0.30%   |
+| Unisex XS   | 1.38%   |
+| Unisex S    | 13.23%  |
+| Unisex M    | 43.31%  |
+| Unisex L    | 29.09%  |
+| Unisex XL   | 9.82%   |
+| Unisex 2XL  | 3.18%   |
 
 Article: [Are Hackathon Prizes the Worst Thing Since Moldy Sliced Bread?](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014)
