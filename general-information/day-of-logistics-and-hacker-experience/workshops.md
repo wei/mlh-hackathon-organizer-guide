@@ -13,7 +13,13 @@ Workshop Examples:
 * Intro to Python/GitHub/C#/AI/ML/Insert tech topic
 * Intro to _\*insert API\*_
 
-## Team Building/Brainstorming Project Ideas Workshop
+## Team Building Workshop
+
+Creating an inclusive space for hackers to feel comfortable finding teammates is fundamental to a good hacker experience. To that end, it is helpful to create a #team-formation channel in your Discord/Slack and host an in-person team building workshop.
+
+We recommend letting hackers meet each other organically in a room split into areas based on topics like gaming, AI, hardware, and more. If organizers observe that conversation is stagnating, they should go around and introduce hackers to each other and help them find common technical ground or project ideas. Team formation workshops generally don't last over an hour.
+
+## Brainstorming Project Ideas Workshop
 
 Brainstorming a project idea is the most important part of the hacker's experience at a hackathon, and for some hackers, it's also the most difficult.
 
