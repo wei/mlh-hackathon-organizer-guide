@@ -23,7 +23,7 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 **These are required to be&#x20;**_**in the format detailed below**_**&#x20;for MLH Member Events**
 
 * **First Name**
-  * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the fiel&#x64;**.**&#x20;
+  * It is important to collect the first and last name fields separately. Some people go by multiple first names/last names (example: "Maria Anne De La Cruz").
 * **Last Name**
 * **Age**
   * We recommend this as a dropdown with specific ages instead of date of births. MLH needs this data for eligibility purposes (some codes are only available to hackers 18+). **We do not collect dates of birth as part of event registration to reduce data risk**.
@@ -73,8 +73,7 @@ MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST
 
 * "I have read and agree to the MLH Code of Conduct."([https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md))
 * “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)) and the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)).”
-* “I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."\
-
+* “I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."<br>
 
 ## Optional Demographic Fields
 
