@@ -25,4 +25,4 @@ If you decide to use Devfolio and are applying to be an MLH member event, please
    * Country
    * [MLH Checkboxes](https://guide.mlh.io/general-information/managing-registrations/registration-timelines#important-registration-fields)
 
-\
+<br>

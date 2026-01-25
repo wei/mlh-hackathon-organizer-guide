@@ -26,4 +26,4 @@ This is a frontend coding competition we borrowed without asking and renamed it 
 6. **Download and display submissions.** You can now download the submissions by navigating to [http://no-light.mlh.io/YOUREVENTNAME.zip](http://no-light.mlh.io/YOUREVENTNAME.zip). Unzip and open the folder on your machine. One-by-one, open the submissions.
 7. **Vote.** Have attendees vote on their favorite submission- this is usually best achieved through voting by applause. You should break any ties.
 
-You’re welcome to re-run the game with different websites as many times as your attendees want. \
+You’re welcome to re-run the game with different websites as many times as your attendees want. <br>
