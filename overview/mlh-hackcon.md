@@ -12,4 +12,4 @@ MLH Hackcon is not free to attend, but we can help you make it a part of your bu
 
 Our website, [**hackcon.mlh.io**](https://hackcon.mlh.io), has all the information you need to know about our next upcoming Hackcon! Hackcon 2025 will be held on August 22-24.
 
-[Here's a discount for $25 off your ticket as a thank you for reading guide.mlh.io!](https://ti.to/mlh/mlh-hackcon-2025/discount/IREADTHEGUIDE)
+[Here's a discount for $25 off your ticket as a thank you for reading guide.mlh.io!](https://ti.to/mlh/mlh-hackcon-2026/discount/IREADTHEGUIDE)
