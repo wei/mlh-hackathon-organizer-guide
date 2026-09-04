@@ -20,7 +20,7 @@ Project Management tools can help you manage your team and their progress on tas
 
 ## Volunteer Guide
 
-* [Student Hack volunteer guide](../Organizer-Resources/StudentHack%20Volunteer%20Guide.docx)
+* [Student Hack volunteer guide](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/Organizer-Resources/StudentHack%20Volunteer%20Guide.docx?raw=true)
 
 ## Resources
 
